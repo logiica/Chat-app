@@ -66,3 +66,22 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Chat App Notes
+
+Version 0: Initial implementation based on Per Harald Borgen's Blog Article "How to build a React.js chat app in 10 minutes".  It uses React with ChatKit.
+
+Version 1 Plans:
+- "Login" as a ChatKit user (no signup yet but that could be added).  There is no current
+   authentication.  Just "login" and provide a user id (known to ChatKit for the room)
+- Style the message page
+
+Version 2 Plans:
+- Authenticate user (tbd: rails backend with user details?)
+- Rename Room
+
+Version 3 Plans:
+- Signup
+
+Version 4 Plans:
+- "Production" - don't use ChatKit test token provider.  Create a token provider.
