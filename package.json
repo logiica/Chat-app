@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@pusher/chatkit-client": "^1.2.2",
+    "enzyme": "^3.8.0",
+    "enzyme-adapter-react-16": "^1.7.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.2"
