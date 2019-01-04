@@ -1,0 +1,20 @@
+
+.message-list {
+    list-style-type: none;
+}
+
+.message-list li {
+    margin-top: 1.5em;
+}
+
+.message-info {
+    margin: 4px;
+    font-family: 'Roboto', sans-serif;       
+}
+
+.message-text {
+    display: inline;
+    font-family: 'Montserrat', sans-serif;    
+    background: #bcf5f5;
+    padding: 2px;
+}

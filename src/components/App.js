@@ -62,6 +62,7 @@ class App extends React.Component {
         roomId: currentUser.rooms[0].id,
         hooks: {
           onMessage: message => {
+            console.log("messages",message)
             this.setState({
               messages: [...this.state.messages, message]
             })
