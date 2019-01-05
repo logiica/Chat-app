@@ -16,5 +16,8 @@
     display: inline;
     font-family: 'Montserrat', sans-serif;    
     background: #bcf5f5;
-    padding: 2px;
+    padding: 5px;
+    margin-left: 3em;
+    font-weight: bold;
+    border-radius: 10px;
 }
