@@ -9,7 +9,8 @@
 
 .message-info {
     margin: 4px;
-    font-family: 'Roboto', sans-serif;       
+    font-family: 'Roboto', sans-serif; 
+    font-size: 15px;      
 }
 
 .message-text {
@@ -18,6 +19,11 @@
     background: #bcf5f5;
     padding: 5px;
     margin-left: 3em;
-    font-weight: bold;
+   /* font-weight: bold;*/
     border-radius: 10px;
+    font-size: 16px;
+}
+
+.message-time {
+    color:#808080;
 }
