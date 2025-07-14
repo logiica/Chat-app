@@ -2,7 +2,7 @@ import React from 'react'
 
 const Title =  () =>
     <div>
-        <h1>Chat!</h1>
+        <h1>Hello World</h1>
     </div>
 ;
 
