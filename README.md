@@ -14,7 +14,7 @@ For demo purposes, room and current user is hardcoded (see src/components/App.js
 set up a different room and user, go to https://pusher.com/
 
 # Contributing
-Bug reports and pull requests are welcome on GitHub at https://github.com/'BarbaraPruz'/chat. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/logiica/Chat-app. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 # License
 Open source under the terms of the MIT License.
